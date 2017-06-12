@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\bin\Debug\MyFirstC.exe.config
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\bin\Debug\MyFirstC.exe
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\bin\Debug\MyFirstC.pdb
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\obj\Debug\MyFirstC.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\obj\Debug\MyFirstC.Form1.resources
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\obj\Debug\MyFirstC.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\obj\Debug\MyFirstC.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\obj\Debug\MyFirstC.exe
+c:\users\acer\documents\visual studio 2017\Projects\MyFirstC\MyFirstC\obj\Debug\MyFirstC.pdb
